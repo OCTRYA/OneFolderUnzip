@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c99e67c-f608-40f3-9e61-2daac9f416a0" name="Changes" comment="" />
+    <list default="true" id="1c99e67c-f608-40f3-9e61-2daac9f416a0" name="Changes" comment="commit deleted files">
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -113,6 +119,19 @@
       <option name="presentableId" value="Default" />
       <updated>1710669797406</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit deleted files">
+      <option name="closed" value="true" />
+      <created>1710670476740</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710670476740</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit deleted files" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit deleted files" />
   </component>
 </project>
