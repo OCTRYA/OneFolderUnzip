@@ -70,12 +70,13 @@ def copy_folders_to_higher_directory(src_dir, dest_dir):
 
 # Create the main window
 root = tk.Tk()
-root.title("File Selection")
+root.title("Unzip Smartschool Upload Folder ")
 
 # Create a button to select a file
 select_button = tk.Button(root, text="Select File", command=select_file)
 select_button.pack(pady=20)
-
+# Adjust size
+root.geometry("400x100")
 # Run the Tkinter event loop
 root.mainloop()
 
