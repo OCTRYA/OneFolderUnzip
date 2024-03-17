@@ -5,7 +5,7 @@ a = Analysis(
     ['main.pyw'],
     pathex=[],
     binaries=[],
-    datas=[],
+    datas=[('Images\\\\VesaliusLogo.png', '.\\\\Images'), ('Images\\\\dos.png', '.\\\\Images')],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
@@ -34,4 +34,5 @@ exe = EXE(
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
+    icon=['icon.ico'],
 )
